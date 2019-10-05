@@ -30,3 +30,4 @@ From handout/component run:
 > webpack ./climate.js -o bundle.js
 or possibly > ./node_modules/.bin/webpack ./climate.js -o bundle.js
 ```
+#hi
